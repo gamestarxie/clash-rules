@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,google
   - DOMAIN-SUFFIX,quickrouter.ai
   - DOMAIN-SUFFIX,c.gle
+  - DOMAIN-SUFFIX,tevau.io
