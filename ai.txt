@@ -28,6 +28,9 @@ payload:
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,codexapis.com
+  - DOMAIN-SUFFIX,openaimerge.com
+  - DOMAIN-SUFFIX,featureassets.org
 
   # 备用关键词匹配 (防止漏掉二级域名)
   - DOMAIN-KEYWORD,openai
@@ -38,7 +41,7 @@ payload:
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,persona.co
   - DOMAIN-SUFFIX,withpersona.com
