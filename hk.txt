@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,quickrouter.ai
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,tevau.io
+  - DOMAIN-SUFFIX,paypal.com
