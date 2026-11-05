@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,tevau.io
   - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,google-analytics.com
