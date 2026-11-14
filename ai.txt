@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,usefathom.com
+  - DOMAIN-SUFFIX,paypal.com
 
   # ================= Stripe 支付网关 =================
   - DOMAIN-SUFFIX,stripe.com
