@@ -12,4 +12,3 @@ payload:
   - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,tevau.io
   - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN-SUFFIX,decodo.com
