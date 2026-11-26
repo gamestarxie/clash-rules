@@ -1,4 +1,16 @@
 payload:
+  # ================= Google Antigravity =================
+  # 进程规则：AI 请求由 language_server 发出，不读系统代理，需 TUN 抓取
+  - PROCESS-NAME,language_server
+  - PROCESS-NAME,agy-desktop-helper
+  - PROCESS-NAME,agy-desktop-rtc
+  - PROCESS-NAME,agy-desktop-script
+  # 域名兜底：进程名解析失败时仍能抢在 gfw(HK) 之前命中
+  - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,aicode.googleapis.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
+
   # ================= Anthropic =================
   # Anthropic & Claude 核心域名
   - DOMAIN-SUFFIX,anthropic.com
