@@ -10,6 +10,7 @@ payload:
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,aicode.googleapis.com
   - DOMAIN-SUFFIX,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,one.google.com
 
   # ================= Anthropic =================
   # Anthropic & Claude 核心域名
